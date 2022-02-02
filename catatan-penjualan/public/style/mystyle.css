@@ -1,0 +1,26 @@
+@font-face {
+    font-family: bebasneue;
+    src: url("../font/BebasNeue-Regular.ttf");
+}
+.navbar-brand {
+    font-family: bebasneue;
+    font-size: 25px !important;
+    color: white;
+}
+.navbar-brand:hover {
+    color: whitesmoke;
+}
+.navbar-nav li a:hover {
+    background-color: rgba(255, 255, 255, 0.095);
+    font-size: large;
+    font-weight: bold;
+}
+.container-form {
+    border-radius: 20px;
+}
+form .form-control {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+form button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
