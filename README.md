@@ -1,6 +1,6 @@
 # Project UAS Web Desain
 
-Project Web CRUD ini dibuat menggunakan Frameworks Laravel 7 sebagai bahan penilaian UAS.
+Project Web CRUD ini dibuat menggunakan Frameworks Laravel 7 dan Boostrap 5 sebagai bahan penilaian UAS.
 
 ## Screenshot
 
